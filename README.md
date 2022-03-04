@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Microsoftlabs
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,Java,Firebase
 - 💞️ I’m looking to collaborate on Python project
 - 📫 How to reach me via email or github
 
