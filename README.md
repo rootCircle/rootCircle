@@ -12,7 +12,7 @@
 
 <!-- ![Lab Inc's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=microsoftlabs) -->
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=microsoftlabs)]
+![Trophy](https://github-profile-trophy.vercel.app/?username=microsoftlabs)
 
 ## Hello World!
 - 👋 Hi, I’m @Microsoftlabs
