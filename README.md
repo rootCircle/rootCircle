@@ -6,7 +6,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4vCUJ5_aMu7C3E4Vvw-lTA?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4vCUJ5_aMu7C3E4Vvw-lTA?style=social)
 
-| <a href="https://github.com/microsoftlabs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=microsoftlabs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lab Inc's GitHub Stats" /></a> | <a href="https://github.com/microsoftlabs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microsoftlabs&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/microsoftlabs/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=microsoftlabs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lab Inc's GitHub Stats" /></a> | <a href="https://github.com/microsoftlabs/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microsoftlabs&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
