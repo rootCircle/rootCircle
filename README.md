@@ -19,7 +19,7 @@
 - 👀 I’m interested in coding classical GUI apps with added backend.
 - 🌱 I’m currently learning Python, Java, Firebase, MySQL, Linux.
 - 💞️ I’m looking to collaborate on [Pyretic](https://github.com/Microsoftlabs/Pyretic). It is a GUI based installer wizard+ system for GNU/Linux based OS.
-- 📫 Ask me anything [here](https://github.com/microsoftlabs/microsoftlabs/issues).
+- 📫 Ask me anything [here](https://github.com/microsoftlabs/microsoftlabs/issues) or [here](https://linkedin.com/in/praveen-jaiswal-atlabinc).
 
 ### Special Thanks 💙
 Special note of Thanks to [Anuraghazra](https://github.com/anuraghazra/github-readme-stats) and [gkhan](https://github.com/gkhan205/gkhan205) for the concise documentation to help me make this beautiful profile page.
