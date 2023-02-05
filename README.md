@@ -1,4 +1,4 @@
-# <img style="border-radius: 50%;" alt="" src="https://avatars.githubusercontent.com/u/35325046?v=4" height="120"> Lab Incorporation @ rootCircle(Previously Microsoftlabs)
+# <img style="border-radius: 50%;" alt="" src="https://avatars.githubusercontent.com/u/35325046?v=4" height="120"> Lab Rat @rootCircle (Previously Lab Incorporation@Microsoftlabs)
 
 <a href="https://www.youtube.com/@12thprogrammr99"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/youtube.png" alt="Youtube" height="20px"/></a>
 <a href="https://linkedin.com/in/praveen-jaiswal-atlabinc"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/linkedin.ico" alt="LinkedIn" height="20px"/></a>
