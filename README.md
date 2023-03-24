@@ -1,5 +1,4 @@
-# <img style="border-radius: 50%;" alt="" src="https://avatars.githubusercontent.com/u/35325046?v=4" height="120"> Lab Rat @rootCircle (Previously Lab Incorporation@Microsoftlabs)
-
+# <img style="border-radius: 50%;" alt="" src="https://avatars.githubusercontent.com/u/35325046?v=4" height="120"> <span>Lab Rat @rootCircle</span>
 <a href="https://www.youtube.com/@12thprogrammr99"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/youtube.png" alt="Youtube" height="20px"/></a>
 <a href="https://linkedin.com/in/praveen-jaiswal-atlabinc"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/linkedin.ico" alt="LinkedIn" height="20px"/></a>
 <a href="https://frolicslab.blogspot.com/"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/blogger.ico" alt="Blog" height="20px"/></a>
@@ -12,13 +11,13 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4vCUJ5_aMu7C3E4Vvw-lTA?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4vCUJ5_aMu7C3E4Vvw-lTA?style=social)
 
-| <a href="https://github.com/rootCircle/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rootCircle&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lab Inc's GitHub Stats" /></a> | <a href="https://github.com/rootCircle/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootCircle&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/rootCircle/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rootCircle&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Lab Inc's GitHub Stats" /></a> | <a href="https://github.com/rootCircle/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootCircle&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a> |
 | ------------- | ------------- |
 
 
 <!-- ![Lab Inc's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rootCircle) -->
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=rootCircle)
+![Trophy](https://github-profile-trophy.vercel.app/?username=rootCircle&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ## Hello World!
 - 👋 Hi, I’m @rootCircle (Previously Micrsoftlabs)
