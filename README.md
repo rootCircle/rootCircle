@@ -1,4 +1,4 @@
-# <img style="border-radius: 50%;" alt="" src="https://avatars.githubusercontent.com/u/35325046?v=4" height="120"> <span>Lab Rat @rootCircle</span>
+# <img style="border-radius: 100%;" alt="logo" src="https://avatars.githubusercontent.com/u/35325046?v=4" height="120"> <span style="white-space: nowrap;">Lab Rat @rootCircle</span>
 <a href="https://www.youtube.com/@12thprogrammr99"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/youtube.png" alt="Youtube" height="20px"/></a>
 <a href="https://linkedin.com/in/praveen-jaiswal-atlabinc"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/linkedin.ico" alt="LinkedIn" height="20px"/></a>
 <a href="https://frolicslab.blogspot.com/"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/blogger.ico" alt="Blog" height="20px"/></a>
