@@ -25,11 +25,11 @@
 
 ## 📊 Github Stats
 <!-- Github Stats -->
-[![Lab Inc's GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=rootCircle&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/rootCircle/#gh-light-mode-only) 
-[![Lab Inc's GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=rootCircle&show_icons=true&include_all_commits=true&theme=radical&hide_border=true#gh-dark-mode-only)](https://github.com/rootCircle/#gh-dark-mode-only) 
+[![Lab Inc's GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=rootCircle&count_private=true&show_icons=true&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/rootCircle/#gh-light-mode-only) 
+[![Lab Inc's GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=rootCircle&count_private=true&show_icons=true&theme=radical&hide_border=true#gh-dark-mode-only)](https://github.com/rootCircle/#gh-dark-mode-only) 
 <span></span> 
-[![Lab Inc's Top Lang Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rootCircle&langs_count=8&layout=compact&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/rootCircle/#gh-light-mode-only) 
-[![Lab Inc's Top Lang Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rootCircle&langs_count=8&layout=compact&theme=radical&hide_border=true#gh-dark-mode-only)](https://github.com/rootCircle/#gh-dark-mode-only)
+[![Lab Inc's Top Lang Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rootCircle&langs_count=8&count_private=true&layout=compact&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/rootCircle/#gh-light-mode-only) 
+[![Lab Inc's Top Lang Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rootCircle&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true#gh-dark-mode-only)](https://github.com/rootCircle/#gh-dark-mode-only)
 
 
 <!-- ![Lab Inc's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rootCircle) -->
