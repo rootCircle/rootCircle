@@ -13,7 +13,7 @@
 
 <a href="https://www.youtube.com/@12thprogrammr99"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/youtube.png" alt="Youtube" height="30px"/></a>
 <a href="https://linkedin.com/in/praveen-jaiswal-atlabinc"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/linkedin.ico" alt="LinkedIn" height="30px"/></a>
-<a href="https://frolicslab.blogspot.com/"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/blogger.ico" alt="Blog" height="30px"/></a>
+<a href="https://rootcircle.github.io/blog/"><img align="center" src="https://github.com/rootCircle/rootCircle/raw/main/res/blogger.ico" alt="Blog" height="30px"/></a>
 
 
 **A college freshman, who loves Open Source.**
