@@ -32,9 +32,8 @@
 <span></span> 
 [![Lab Inc's Top Lang Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rootCircle&langs_count=8&count_private=true&layout=compact&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/rootCircle/#gh-light-mode-only) 
 [![Lab Inc's Top Lang Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rootCircle&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true#gh-dark-mode-only)](https://github.com/rootCircle/#gh-dark-mode-only)
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rootcircle&theme=dark" alt="rootcircle" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rootCircle&theme=radical&hide_border=true" alt="rootcircle" /></p>
 
-<!-- ![Lab Inc's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rootCircle) -->
 
 <!-- Trophies -->
 ## 🏆 Github Profile Trophy
